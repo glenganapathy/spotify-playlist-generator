@@ -22,3 +22,6 @@ Update the following variables in the script with your Spotify credentials:
 SPOTIFY_CLIENT_ID = "your_spotify_client_id"
 SPOTIFY_CLIENT_SECRET = "your_spotify_client_secret"
 USERNAME = "your_spotify_username"
+cache_path="YOUR_CACHE_PATH"
+
+##### Worked on this as part of a module project from Dr. Angela Yu's course on Udemy titled: 100 Days of Code: The Complete Python Pro Bootcamp 
